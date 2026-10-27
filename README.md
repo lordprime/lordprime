@@ -1,5 +1,4 @@
-# 💫 About Me:
-I’m currently working on an API security startup with built-in GRC compliance (GDPR Art. 32, NIS2, DORA). Exploring SW * WCD * CDN attack research under CISPA.<br>I’m looking to collaborate on early-stage cybersecurity ventures..
+
 
 
 ## 🌐 Socials:
